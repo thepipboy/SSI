@@ -3,4 +3,4 @@
     
     everything running in parallel can be run in parallel 
     
-    due to the interaction combiner and its property is based on Massively Paraller Processing (MPP)
+    due to the interaction combiner and its property is based on Massively Parallel Processing (MPP)
