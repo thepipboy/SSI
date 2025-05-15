@@ -1,5 +1,5 @@
-# SSI
-    according to the logic and grammar of bend language itself,all of us own the equality of supersafeintelligence
+
+    according to the logic and grammar of bend language itself,all of us own the equality of ... ...
     
     everything running in parallel can be run in parallel 
     
